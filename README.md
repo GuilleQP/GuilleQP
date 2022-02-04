@@ -18,6 +18,7 @@ Check out my [curriculum vitae](https://guilleqp.github.io/CV_GuillermoQuintana2
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -30,7 +31,11 @@ Check out my [curriculum vitae](https://guilleqp.github.io/CV_GuillermoQuintana2
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![CircleCI](https://img.shields.io/badge/-CircleCI-181717?style=flat-square&logo=circleci)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apacheairflow)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
 
 ## 📫 How to reach me:
 
