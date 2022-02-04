@@ -8,7 +8,7 @@ I have been building Machine Learning models, APIs and data systems for Dealroom
 
 I love AI and, in particular, NLP, where I have focused most of my research time. I've worked closely with ML tools like pytorch and keras, and with the Google Cloud Platform, designing and developing pipelines to process and manage data. 
 
-Check out my [curriculum vitae](https://guilleqp.github.io/CV_GuillermoQuintana2020.pdf).
+Check out my [curriculum vitae](https://guilleqp.github.io/CV_GuillermoQuintana_2022.pdf).
 
 ## ⚡ Technologies and tools
 
